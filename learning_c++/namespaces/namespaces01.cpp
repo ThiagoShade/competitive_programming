@@ -2,12 +2,11 @@
 using std::cout;
 /*
 Vários tipos, funções, variáveis, etc, são declarados em diferentes
-escopos de bibliotecas, ao usar o using namespace std, estamos dizendo que
-estamos usando esses objetos do escopo da biblioteca standard,
-resumindo estamos declarando o escopo dos identificadores que estamos usando
-para todo o resto do programa.
+escopos de bibliotecas, ao usar o using std::cout , estamos dizendo que
+estamos usando esse objeto "cout" do escopo da biblioteca standard,
+resumindo estamos declarando o escopo do cout nesse programa é sempre std.
 
-Isso tira a necessidade de escrever o escopo dos objetos na função main. ex: std::cout
+Isso tira a necessidade de escrever o escopo desse objeto na função main.
 */
 
 int main() {
