@@ -1,2 +1,2 @@
 # competitive_programming
-Repository with all my studies, contests and problems solutions about competitive programming
+All my studies, contests and problems solutions about competitive programming
